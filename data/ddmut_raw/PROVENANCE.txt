@@ -1,0 +1,2 @@
+# DDMut web server, structure input = raw PDB accession 2PZE chain A (NOT the Schrodinger-prepared structure), list job 17955294191166456, run 2026-11-24, reverse option ticked. Q637R not run: residue 637 absent from 2PZE chain A (server error).
+# DDMut web server, structure = raw PDB accession 6UK1 chain A (9sol, Bahia Construct_11), list job 17955640806791544, 2026-11-25, reverse ticked. Only the 9 NBD2 mutations measured on 9sol; the 15 on other constructs were NOT run (need construct-specific structures).
